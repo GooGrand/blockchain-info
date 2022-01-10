@@ -1,1 +1,0 @@
-# evm-sc-vulnerabilities
